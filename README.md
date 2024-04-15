@@ -10,7 +10,7 @@ Before running the e-Shop application, ensure you have the following prerequisit
 
 ```bash
 Node.js
-Angular CLI (version 13.2.0)
+Angular CLI (version 14.2.0)
 Stripe account (for payment processing)
 ```
 
